@@ -58,32 +58,10 @@ The reproduction was performed using the sampled dataset provided with the autho
 
 ## Execution Instructions
 
-1. Clone the repository.
-
-```bash
-git clone <your repository link>
-cd Tree-based-IDS-Reproduction
-```
-
-2. Install the required Python packages.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the notebook.
-
-```bash
-jupyter notebook
-```
-
-or
-
-```bash
-jupyter lab
-```
-
-4. Execute the notebook from the first cell to the last.
+1. Open the notebook Tree_based_IDS_Reproduction.ipynb.
+2. Install the required Python packages (The first cell).
+3. Upload the dataset CICIDS2017_sample.csv in the second cell.
+4. Execute the rest of the notebook.
 
 The notebook performs:
 
