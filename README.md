@@ -28,15 +28,11 @@ The project also provides a critical evaluation of the paper, discussing its str
 
 Tree-based Intelligent Intrusion Detection System in Internet of Vehicles
 
-**Link**
-
-[*Insert paper URL here*](https://arxiv.org/pdf/1910.08635)
+[**Link**](https://arxiv.org/pdf/1910.08635)
 
 ---
 
-## Original GitHub Repository
-
-[*Insert original GitHub repository URL here*](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/tree/main)
+[*Original GitHub Repository*](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/tree/main)
 
 ---
 
