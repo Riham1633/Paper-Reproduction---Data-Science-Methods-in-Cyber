@@ -32,7 +32,7 @@ Tree-based Intelligent Intrusion Detection System in Internet of Vehicles
 
 ---
 
-[*Original GitHub Repository*](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/tree/main)
+[**Original GitHub Repository**](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/tree/main)
 
 ---
 
@@ -40,9 +40,9 @@ Tree-based Intelligent Intrusion Detection System in Internet of Vehicles
 
 This project uses the **CICIDS2017** intrusion detection dataset.
 
-Dataset source:
 
-[*Insert CICIDS2017 download URL here*](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/data/CICIDS2017_sample.csv)
+
+[**Dataset source**](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/data/CICIDS2017_sample.csv)
 
 The reproduction was performed using the sampled dataset provided with the authors' implementation.
 
