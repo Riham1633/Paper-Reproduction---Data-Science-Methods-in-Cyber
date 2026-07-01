@@ -50,15 +50,19 @@ The reproduction was performed using the sampled dataset provided with the autho
 
 ## Repository Contents
 
-* `Report.pdf` – Final project report.
-* `Tree_based_IDS_Reproduction.ipynb` – Complete implementation.
+* `Tree_based_IDS_Report.pdf` – project report.
+* `Tree_based_IDS_Reproduction.ipynb` – code implementation.
+* `Tree_based_IDS_Report_2.pdf` – Final project report.
+* (This version is an updated version of the original report (Tree_based_IDS_Report.pdf), updated based on the feedback given).
+* `Tree_based_IDS_Reproduction_2.ipynb` – Complete code implementation.
+* (This version is an updated version of the original notebook (Tree_based_IDS_Reproduction.ipynb), updated based on the feedback given).
 * `README.md` – Project description and execution instructions.
 
 ---
 
 ## Execution Instructions
 
-1. Open the notebook Tree_based_IDS_Reproduction.ipynb.
+1. Open the notebook Tree_based_IDS_Reproduction_2.ipynb.
 2. Install the required Python packages (The first cell).
 3. Upload the dataset CICIDS2017_sample.csv in the second cell.
 4. Execute the rest of the notebook.
@@ -73,6 +77,7 @@ The notebook performs:
 * Performance Evaluation
 * Error Analysis
 * Comparison with the original paper
+* Duplicates removing evaluation & Comparison with the original paper
 
 ---
 
