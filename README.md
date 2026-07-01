@@ -53,9 +53,9 @@ The reproduction was performed using the sampled dataset provided with the autho
 * `Tree_based_IDS_Report.pdf` – project report.
 * `Tree_based_IDS_Reproduction.ipynb` – code implementation.
 * `Tree_based_IDS_Report_2.pdf` – Final project report.
-* (This version is an updated version of the original report (Tree_based_IDS_Report.pdf), updated based on the feedback given).
+  (This version is an updated version of the original report (Tree_based_IDS_Report.pdf), updated based on the given feedback).
 * `Tree_based_IDS_Reproduction_2.ipynb` – Complete code implementation.
-* (This version is an updated version of the original notebook (Tree_based_IDS_Reproduction.ipynb), updated based on the feedback given).
+  (This version is an updated version of the original notebook (Tree_based_IDS_Reproduction.ipynb), updated based on the given feedback).
 * `README.md` – Project description and execution instructions.
 
 ---
